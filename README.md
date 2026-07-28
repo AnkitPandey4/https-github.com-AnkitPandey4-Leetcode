@@ -29,14 +29,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0437-path-sum-iii) |
+| [0814-binary-tree-pruning](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0814-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0437-path-sum-iii) |
+| [0814-binary-tree-pruning](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0814-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0437-path-sum-iii) |
+| [0814-binary-tree-pruning](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0814-binary-tree-pruning) |
 <!---LeetCode Topics End-->
