@@ -62,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0027-remove-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
