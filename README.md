@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Binary Search
 |  |
