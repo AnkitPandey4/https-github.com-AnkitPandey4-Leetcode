@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0013-roman-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1563-stone-game-v](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
