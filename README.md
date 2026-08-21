@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1563-stone-game-v](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Backtracking
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
@@ -190,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
