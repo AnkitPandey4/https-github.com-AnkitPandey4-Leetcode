@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1563-stone-game-v](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1872-stone-game-viii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -188,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
 ## Heap (Priority Queue)
 |  |
@@ -198,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0118-pascals-triangle) |
 | [1563-stone-game-v](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
 | ------- |
