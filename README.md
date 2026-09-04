@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0626-exchange-seats) |
 | [1341-movie-rating](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1683-invalid-tweets) |
