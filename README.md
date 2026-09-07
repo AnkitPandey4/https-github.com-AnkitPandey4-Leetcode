@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -253,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
