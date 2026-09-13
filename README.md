@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0835-image-overlap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0835-image-overlap) |
 | [0941-valid-mountain-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
