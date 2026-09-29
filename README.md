@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bucket Sort
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -346,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 <!---LeetCode Topics End-->
