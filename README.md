@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0257-binary-tree-paths) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0118-pascals-triangle) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
