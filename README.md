@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1563-stone-game-v](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1927-sum-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -330,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
@@ -362,12 +368,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -405,4 +413,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
