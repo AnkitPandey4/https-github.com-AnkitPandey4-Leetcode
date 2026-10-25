@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0835-image-overlap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0835-image-overlap) |
 | [0941-valid-mountain-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0941-valid-mountain-array) |
+| [1254-number-of-closed-islands](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -373,11 +375,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
