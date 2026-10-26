@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0814-binary-tree-pruning) |
+| [0841-keys-and-rooms](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0841-keys-and-rooms) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0841-keys-and-rooms](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0841-keys-and-rooms) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Binary Indexed Tree
 |  |
