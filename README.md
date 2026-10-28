@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Combinatorics
