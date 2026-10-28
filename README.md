@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0706-design-hashmap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0706-design-hashmap) |
 | [0835-image-overlap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0835-image-overlap) |
 | [0941-valid-mountain-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0941-valid-mountain-array) |
 | [1254-number-of-closed-islands](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0706-design-hashmap) |
 | [0725-split-linked-list-in-parts](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
@@ -483,8 +486,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
