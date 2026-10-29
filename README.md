@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0705-design-hashset](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0706-design-hashmap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0705-design-hashset](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0706-design-hashmap) |
 | [0835-image-overlap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0835-image-overlap) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0011-container-with-most-water) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -372,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
