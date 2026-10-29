@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1763-longest-nice-substring](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1763-longest-nice-substring) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1763-longest-nice-substring](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1763-longest-nice-substring) |
 | [1927-sum-game](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1763-longest-nice-substring](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1763-longest-nice-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1763-longest-nice-substring](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1763-longest-nice-substring) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1763-longest-nice-substring](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1763-longest-nice-substring) |
 ## Binary Search Tree
 |  |
 | ------- |
