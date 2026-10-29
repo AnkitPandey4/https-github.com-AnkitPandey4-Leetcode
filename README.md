@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1763-longest-nice-substring) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1872-stone-game-viii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
