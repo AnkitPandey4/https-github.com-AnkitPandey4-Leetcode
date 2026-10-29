@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0706-design-hashmap) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0594-longest-harmonious-subsequence](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0706-design-hashmap) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0220-contains-duplicate-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
