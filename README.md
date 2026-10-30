@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1763-longest-nice-substring](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1763-longest-nice-substring) |
 ## Binary Search Tree
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -509,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Union-Find
@@ -544,4 +550,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
