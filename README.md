@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0045-jump-game-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0045-jump-game-ii) |
 | [0115-distinct-subsequences](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0118-pascals-triangle) |
 | [0174-dungeon-game](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0174-dungeon-game) |
