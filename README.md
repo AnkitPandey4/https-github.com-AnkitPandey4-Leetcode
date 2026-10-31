@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0118-pascals-triangle) |
 | [0174-dungeon-game](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0174-dungeon-game) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
