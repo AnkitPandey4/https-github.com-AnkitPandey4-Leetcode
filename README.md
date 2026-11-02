@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0141-linked-list-cycle) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0220-contains-duplicate-iii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0242-valid-anagram) |
@@ -610,4 +613,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0292-nim-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
