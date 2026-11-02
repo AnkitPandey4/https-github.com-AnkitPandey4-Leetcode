@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Backtracking
 |  |
 | ------- |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Game Theory
 |  |
 | ------- |
