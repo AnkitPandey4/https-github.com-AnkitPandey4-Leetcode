@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Database
 |  |
 | ------- |
@@ -537,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/AnkitPandey4/https-github.com-AnkitPandey4-Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Geometry
